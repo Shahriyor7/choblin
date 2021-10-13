@@ -5,7 +5,7 @@ const requestify = require('requestify')
 mongoose.connect(config.mongodb);
 
 const bot = new TeleBot({
-    token: "1826769535:AAGQUR_eU9iHzeqpyKBqWY5QJCIwKVxV3dM",
+    token: "1929420071:AAFozNGZPznN5zqsO5gyVwz3EqSgmVxQppI",
     polling: {
         interval: 75,
         timeout: 0,
